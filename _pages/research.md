@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  og_image: "research/ecdf.png"
+  og_image: "images/Solid_black.png"
 ---
 
 ## Working Papers
