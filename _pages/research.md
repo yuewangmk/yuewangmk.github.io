@@ -19,7 +19,18 @@ header:
     - **Major Revision** at *International Journal of Research in Marketing*
 - The Value of Content Inclusiveness: Evidence from A Social Media Platform.
     - *with* Masakazu Ishihara
-     
+
+
+## Publications
+- From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification. 
+    - *with* Xiang Hui, and Zekun Liu
+    - *Marketing Science* (2023)
+
+
+## Selected Work in Progress
+- Estimating the Trends of Product Categories: Evidence from the U.S. Motion Picture Industry.
+    - *with* Masakazu Ishihara
+
 
 <!---
 <nbsp>
