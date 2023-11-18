@@ -3,18 +3,18 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## Instructor at New York University
+- Intro to Marketing: Undergraduate Core (Summer 2021)
+    - Evaluation: 4.8/5
+      
+## Instructor at Washington University in St. Louis
+- Basics of Stata Programming: Specialized Masters (Summer 2018)
+    - Evaluation: 9.52/10
 
-## The University of North Carolina at Chapel Hill
+## Teaching Assistant at New York University
 - Poli 281: Quantitative Research in Political Science (Spring 2019)
     - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
 - Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
     - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+
