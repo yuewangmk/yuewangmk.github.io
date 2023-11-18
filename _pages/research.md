@@ -22,9 +22,8 @@ header:
 
 
 ## Publications
-- From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification. 
+- From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification. *Marketing Science* (2023) 
     - *with* Xiang Hui, and Zekun Liu
-    - *Marketing Science* (2023)
 
 
 ## Selected Work in Progress
