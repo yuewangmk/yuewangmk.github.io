@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Weiqing Zhang"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Marketing Researcher"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "https://orcid.org/0000-0001-7016-3161"
+  googlescholar    : "https://scholar.google.com/citations?user=RGygv0AAAAAJ&hl=en"
+  email            : "wz1571@stern.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "weiqingzhangmkt"
+  gitlab           : "weiqingzhangmkt"
   google_plus      :
   keybase          :
   instagram        :
