@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiqing Zhang"
+title                    : "Rob Williams"
 title_separator          : "-"
-name                     : &name "Weiqing Zhang"
-description              : &description "Weiqing Zhang's personal site"
-url                      : https://weiqingzhangmkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rob Williams"
+description              : &description "Postdoc in Political Science"
+url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "weiqingzhangmkt/weiqingzhangmkt.github.io"
+repository               : "jayrobwilliams/jayrobwilliams.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weiqing Zhang"
+  name             : "Rob Williams"
   avatar           : "profile.png"
-  bio              : "Marketing Researcher"
+  bio              : "Data Scientist"
   location         :
   employer         :
   pubmed           :
-  orcid            : "https://orcid.org/0000-0001-7016-3161"
-  googlescholar    : "https://scholar.google.com/citations?user=RGygv0AAAAAJ&hl=en"
-  email            : "wz1571@stern.nyu.edu"
+  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  email            : "rob.williams@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,8 +101,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiqingzhangmkt"
-  gitlab           : "weiqingzhangmkt"
+  github           : "jayrobwilliams"
+  gitlab           : "jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
