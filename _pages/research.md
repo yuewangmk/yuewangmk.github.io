@@ -16,6 +16,9 @@ header:
     - **Major Revision** at *Marketing Science*
 - The Usage and Impact of Differentiation: Evidence from an Online EdTech Platform.
     - *with* Tülin Erdem, and Masakazu Ishihara
+    - *Job Market Paper*
+- The Effect of Acquisitions on Product Innovativeness, Quality, and Sales Performance: Evidence from the Console Video Game Industry (2002-2010)
+    - *with* Masakazu Ishihara, and Joost Rietveld
 
 
 ## Publications
