@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Zekun Liu"
   avatar           : "Solid_black.png"
-  bio              : "Marketing Researcher"
+  bio              : # "Marketing Researcher"
   location         :
   employer         :
   pubmed           :
