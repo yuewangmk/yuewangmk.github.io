@@ -25,7 +25,7 @@ header:
 - [From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4666) *Marketing Science* (2023) 
     - *with* Xiang Hui, and Weiqing Zhang
 - [Information Sharing on Retail Platforms.](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0915) *Manufacturing & Service Operations Management* (2021) 
-    - *with* Dennis Zhang, and Fuqiang Zhang
+    - *with* Dennis J. Zhang, and Fuqiang Zhang
 
 
 <!---
