@@ -5,11 +5,11 @@ title: "Teaching"
 
 ## Instructor at New York University
 - Intro to Marketing: Undergraduate (Summer 2021)
-    - Evaluation: 4.8/5
+    - Evaluation: 5/5
       
 ## Instructor at Washington University in St. Louis
-- Basics of Stata Programming: Specialized Masters (Summer 2018)
-    - Evaluation: 9.52/10
+- Basics of SAS Programming: Specialized Masters (Summer 2018)
+    - Evaluation: 9.3/10
 
 ## Selected Teaching Assistant Experience
 - Data Driven Decision Making: Undergraduate & MBA (Spring 2022, 2023)
