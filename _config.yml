@@ -11,7 +11,7 @@ title                    : "Zekun Liu"
 title_separator          : "-"
 name                     : &name "Zekun Liu"
 description              : &description "Marketing Researcher"
-url                      : https://weiqingzhangmkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zekunliu-mkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zekunliu-mkt/zekunliu-mkt.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -90,7 +90,7 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-7016-3161"
+  orcid            : "https://orcid.org/0000-0003-4660-9041"
   googlescholar    : "https://scholar.google.com/citations?user=e8RzsrgAAAAJ&hl=en&oi=sra"
   email            : "zl3126@stern.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
