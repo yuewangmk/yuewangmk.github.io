@@ -84,15 +84,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weiqing Zhang"
+  name             : "Zekun Liu"
   avatar           : "Solid_black.png"
   bio              : "Marketing Researcher"
   location         :
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-7016-3161"
-  googlescholar    : "https://scholar.google.com/citations?user=RGygv0AAAAAJ&hl=en"
-  email            : "wz1571@stern.nyu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=e8RzsrgAAAAJ&hl=en&oi=sra"
+  email            : "zl3126@stern.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"weiqingzhangmkt"
+  github           : #"zekunliu-mkt"
   gitlab           : 
   google_plus      :
   keybase          :
