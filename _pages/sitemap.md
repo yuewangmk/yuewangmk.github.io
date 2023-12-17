@@ -5,7 +5,13 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
+Sorry, but the page you were trying to view is missing
+
+$$
+\sqrt{\frac{\sum_{i=1}^m (\theta_i - \overline{\theta})^2}{N-1}}
+$$
+
+<!-- {% include base_path %}
 
 A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
 
@@ -34,4 +40,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
