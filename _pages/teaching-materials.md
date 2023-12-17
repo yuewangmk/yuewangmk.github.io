@@ -5,11 +5,12 @@ header:
   og_image: "teaching/pdp.png"
 ---
 
-Sorry, but the page you were trying to view is missing.
+Sorry, but the page you were trying to view is missing
 
 $$
 \sqrt{\frac{\sum_{i=1}^m (\theta_i - \overline{\theta})^2}{N-1}}
 $$
+
 
 <!-- ## <i class="fas fa-fw fa-code" aria-hidden="true"></i> Poli 891: Lab for Advanced Political Data Science
 {: #political-data-science }
