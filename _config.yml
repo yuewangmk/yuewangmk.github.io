@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Zekun Liu"
-  avatar           : "Solid_black.png"
+  avatar           : " " #"Solid_black.png"
   bio              : " "
   location         :
   employer         :
