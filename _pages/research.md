@@ -13,7 +13,7 @@ header:
     - **Major Revision** at *International Journal of Research in Marketing*
 - [The Power of Livestream Shopping: Boosting Revenues and Catalyzing Spillovers.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318978) 
     - *with* Weiqing Zhang, Xiao Liu, and Eitan Muller
-    - **Under Review** 
+    - **Risky Revision** at *Journal of Marketing Research* 
 - The Usage and Impact of Differentiation: Evidence from an Online EdTech Platform.
     - *with* Tülin Erdem, and Masakazu Ishihara
     - *Job Market Paper*
