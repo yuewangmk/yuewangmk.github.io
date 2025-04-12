@@ -2,18 +2,20 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+## Teaching Interest
+- Machine Learning in Marketing, Digital Marketing, Marketing Analytics, Quantitative Research, Marketing Management, Retailing
 
-## Instructor at New York University
-- Intro to Marketing: Undergraduate (Summer 2021)
-    - Evaluation: 5/5
+
+## Teaching Assistant at Hong Kong University of Science and Technology
+- Consumer Behavior: Undergraduate (Fall 2022, Spring 2023)
+- Marketing Management: Undergraduate (Spring 2024)
+- Retailing: Undergraduate (Spring 2022, Spring 2024)
+- Marketing Analytics: Undergraduate (Fall 2021)
       
-## Instructor at Washington University in St. Louis
-- Basics of SAS Programming: Specialized Masters (Summer 2018)
-    - Evaluation: 9.3/10
+## Teaching Assistant at University of Rochester
+- Intro to Business Analytics: Graduate (Fall A 2019)
+- Social Media Analytics: Graduate (Fall B 2019)
 
-## Selected Teaching Assistant Experience
-- Data Driven Decision Making: Undergraduate & MBA (Spring 2022, 2023)
-- Intro to Marketing: MBA (Fall 2022)
-- Causal Inference: Specialized Masters (Spring 2019)
+
 
 
