@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zekun Liu"
+title                    : "Yue Wang"
 title_separator          : "-"
-name                     : &name "Zekun Liu"
+name                     : &name "Yue Wang"
 description              : &description "Marketing Researcher"
-url                      : https://zekunliu-mkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuewangmk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zekunliu-mkt/zekunliu-mkt.github.io"
+repository               : "yuewangmk/yuewangmk.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : Liu2.jpg # Open Graph/Twitter default site image
+og_image                 : profile-pic.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -79,20 +79,20 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : zekunliu-mkt
+    code		 : yuewangmk
 
 
 # Site Author
 author:
-  name             : "Zekun Liu"
-  avatar           : "Liu2.jpg"
+  name             : "Yue Wang"
+  avatar           : "profile-pic.jpg"
   bio              : " "
   location         :
   employer         :
   pubmed           :
-  orcid            : "https://orcid.org/0000-0003-4660-9041"
-  googlescholar    : "https://scholar.google.com/citations?user=e8RzsrgAAAAJ&hl=en&oi=sra"
-  email            : "zl73@iu.edu"
+  orcid            : #"https://orcid.org/0000-0003-4660-9041"
+  googlescholar    : #"https://scholar.google.com/citations?user=e8RzsrgAAAAJ&hl=en&oi=sra"
+  email            : "ywangmk@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"zekunliu-mkt"
+  github           : #
   gitlab           : 
   google_plus      :
   keybase          :
