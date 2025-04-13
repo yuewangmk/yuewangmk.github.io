@@ -16,4 +16,4 @@ As an empirical modeler, my research primarily focuses on two streams: understan
 
 To explore these topics, I employ a range of techniques, including statistical analysis, machine learning, causal inference, and Bayesian estimation methods. 
 
-Prior to HKUST, I earned an M.Sc from Simon Business School at University of Rochesterwhile enrolled in the Ph.D. program. I received my B.S in Statictis from the University of Science and Technology of China.
+Prior to HKUST, I earned an M.Sc from Simon Business School at University of Rochester while enrolled in the Ph.D. program. I received my B.S in Statictis from the University of Science and Technology of China.
