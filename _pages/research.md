@@ -8,24 +8,15 @@ header:
 ---
 
 ## Working Papers
-- [Success and Survival in Livestream Shopping.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028092) 
-    - *with* Weiqing Zhang, Xiao Liu, Eitan Muller, and Feiyu Xiong
-    - **Major Revision** at *International Journal of Research in Marketing*
-- [The Power of Livestream Shopping: Boosting Revenues and Catalyzing Spillovers.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318978) 
-    - *with* Weiqing Zhang, Xiao Liu, and Eitan Muller
-    - **Risky Revision** at *Journal of Marketing Research* 
-- The Usage and Impact of Differentiation: Evidence from an Online EdTech Platform.
-    - *with* Tülin Erdem, and Masakazu Ishihara
-    - *Job Market Paper*
-- The Effect of Acquisitions on Product Innovativeness, Quality, and Sales Performance: Evidence from the Console Video Game Industry (2002-2010)
-    - *with* Masakazu Ishihara, and Joost Rietveld
-
-
-## Publications
-- [From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4666) *Management Science* (2023) 
-    - *with* Xiang Hui, and Weiqing Zhang
-- [Information Sharing on Retail Platforms.](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0915) *Manufacturing & Service Operations Management* (2021) 
-    - *with* Dennis J. Zhang, and Fuqiang Zhang
+- Demand Structure in Two-Sided Markets: A Network Based Revenue Analysis Ap- proach.
+    - *with* Yi Zhao, Ying Zhao
+    - **Job Market Paper**
+- The Influence of News from Different Media Channels on Consumer Purchase: In- sights from the Chinese Pharmaceutical Market.
+    - *with* Ying Zhao, Yi Zhao, Yang Shi
+- Show Me Some Effort! The Effect of Liking versus Comments and Their Presentation Format on User-Generated Content.
+    - *with* Ying Zhao, Min Zhao
+- Ride The Wave or Not? The Spillover Effect of Online Shopping Festivals and Best Timing for Advertising.
+    - *with* Xiaobei Shen, Xiabing Zheng
 
 
 <!---
