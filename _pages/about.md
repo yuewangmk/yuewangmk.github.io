@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
 
-Welcome to my website! I am a Ph.D. candidate in Marketing at Hong Kong University of Science and Technology (HKUST). 
+Welcome to my website! My name is Yue Wang, and I am a Ph.D. candidate in Quantitative Marketing at Hong Kong University of Science and Technology (HKUST). 
 
-As an empirical modeler, my research primarily focuses on two streams: understanding the two-sided market, and investigating how information impact consumers’ beliefs and behaviors. 
+My research primarily focuses on two streams: 
+-understanding the interplay between the agents in two-sided digital platforms
+-how information influence consumers’ behaviors
 
-To explore these topics, I employ a range of techniques, including statistical analysis, machine learning, causal inference, and Bayesian estimation methods. 
+To explore these topics,  I employ a range of techniques, including state-of-the-art machine learning methods (e.g., Graph Neural Network
+(GNN) and Variational Auto Encoder (VAE)), Bayesian estimation methods, causal inference, and big data analysis on both structured and unstructured data
 
-Prior to HKUST, I earned an M.Sc from Simon Business School at University of Rochester while enrolled in the Ph.D. program. I received my B.S in Statictis from the University of Science and Technology of China.
+I will be on the 2025-2026 job market.
+
+[Curriculum Vitae](/files/pdf/CV.pdf)
