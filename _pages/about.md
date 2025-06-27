@@ -12,12 +12,9 @@ redirect_from:
     <h1 class="welcome-title"></h1>
     
     <div class="intro-content">
-        <p class="intro-text">
-            Welcome to my website!
-        </p>
 
         <p class="intro-text">
-            My name is <span class="highlight">Yue Wang</span>, and I am a Ph.D. candidate in Quantitative Marketing at the Hong Kong University of Science and Technology (HKUST).
+            I am <span class="highlight">Yue Wang</span>, a Ph.D. candidate in Quantitative Marketing at the Hong Kong University of Science and Technology (HKUST).
         </p>
         
 
@@ -30,6 +27,10 @@ redirect_from:
 
         <p class="intro-text">
           Methodologically, I employ machine learning methods (e.g., Graph Neural Network (GNN) and Variational Auto Encoder (VAE)), Bayesian estimation methods, causal inference, and unstructured data analysis.
+        </p>
+
+        <p class="intro-text">
+            I will be on the 2025-2026 job market.
         </p>
     </div>
 </div>
