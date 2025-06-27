@@ -14,11 +14,7 @@ redirect_from:
     <div class="intro-content">
 
         <p class="intro-text">
-            I am <span class="highlight">Yue Wang</span>, a Ph.D. candidate in Quantitative Marketing at the Hong Kong University of Science and Technology (HKUST).
-        </p>
-        
-
-        <p class="research-intro">My research primarily focuses on two streams:</p>
+            I am <span class="highlight">Yue Wang</span>, a Ph.D. candidate in Quantitative Marketing at the Hong Kong University of Science and Technology (HKUST). My research primarily focuses on two streams:</p>
         <ul class="research-list">
             <li>Understanding the interplay between agents in two-sided digital platforms</li>
             <li>Examining how information influences consumer behavior</li>
