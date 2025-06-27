@@ -27,7 +27,7 @@ redirect_from:
         </p>
 
         <p class="intro-text">
-            I will be on the 2025-2026 job market.
+            I am on the 2025-2026 job market.
         </p>
     </div>
 </div>
