@@ -20,6 +20,7 @@ redirect_from:
             <li>Examining how information influences consumer behavior</li>
         </ul>
 
+        <br> 
 
         <p class="intro-text">
           Methodologically, I employ machine learning methods (e.g., Graph Neural Network (GNN) and Variational Auto Encoder (VAE)), Bayesian estimation methods, causal inference, and unstructured data analysis.
