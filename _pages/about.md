@@ -15,7 +15,7 @@ redirect_from:
 
         <p class="intro-text">
             I am <span class="highlight">Yue Wang</span>, a fifth-year Ph.D. candidate in Quantitative Marketing at the Hong Kong University of Science and Technology (HKUST). </p>
-        <br> 
+
         <p class="intro-text">
             My research leverages machine learning techniques to explore key challenges associated with digital platforms, with a focus on:</p>
         <ul class="research-list">
@@ -26,7 +26,8 @@ redirect_from:
         <br> 
 
         <p class="intro-text">
-          Methodologically, I employ Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and text analysis. In addition, I use causal inference and Bayesian estimation methods to study these topics.
+          The machine learning methods include Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and text analysis.<br>
+          In addition, I use causal inference and Bayesian estimation methods to study these topics.
         </p>
 
         <p class="intro-text">
