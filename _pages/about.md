@@ -19,14 +19,14 @@ redirect_from:
         <p class="intro-text">
             My research leverages machine learning techniques to explore key challenges associated with digital platforms, with a focus on:</p>
         <ul class="research-list">
-            <li>Understanding the interplay between agents in two-sided digital platforms</li>
+            <li>Understanding the interplay between users on two-sided digital platforms</li>
             <li>Examining how information influences consumer behavior</li>
         </ul>
 
         <br> 
 
         <p class="intro-text">
-          The machine learning methods include Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and text analysis.<br>
+          The machine learning methods include Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and natural language processing (NLP).<br>
           In addition, I use causal inference and Bayesian estimation methods to study these topics.
         </p>
 
