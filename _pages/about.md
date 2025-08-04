@@ -26,7 +26,7 @@ redirect_from:
         <br> 
 
         <p class="intro-text">
-          To address these topics, I employ causal inference, Bayesian estimation methods, and machine learning techniques--including Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and natural language processing (NLP).
+          To address these topics, I employ causal inference, Bayesian estimation methods, and machine learning techniques, including Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and natural language processing (NLP).
         </p>
 
         <p class="intro-text">
