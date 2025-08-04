@@ -19,14 +19,14 @@ redirect_from:
         <p class="intro-text">
             I am interested in topics related to digital platforms, with a focus on:</p>
         <ul class="research-list">
-            <li>Understanding the interplay between users on two-sided digital platforms</li>
+            <li>Understanding the interplay between users on the platform</li>
             <li>Examining how information influences consumer behavior</li>
         </ul>
 
         <br> 
 
         <p class="intro-text">
-          To study these topics, I use machine learning methods (e.g., Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and natural language processing (NLP)), causal inference and Bayesian estimation approach.
+          To study these topics, I use causal inference, Bayesian estimation approach, and machine learning methods, including Graph Neural Networks (GNNs), Variational Autoencoders (VAEs), Gated Recurrent Units (GRUs), and natural language processing (NLP).
         </p>
 
         <p class="intro-text">
