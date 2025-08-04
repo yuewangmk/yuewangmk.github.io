@@ -17,7 +17,7 @@ redirect_from:
             I am <span class="highlight">Yue Wang</span>, a fifth-year Ph.D. candidate in Quantitative Marketing at the Hong Kong University of Science and Technology (HKUST). </p>
 
         <p class="intro-text">
-            My research focuses on:</p>
+            I am interested in topics related to digital platforms, with a focus on:</p>
         <ul class="research-list">
             <li>Understanding the interplay between users on two-sided digital platforms</li>
             <li>Examining how information influences consumer behavior</li>
