@@ -8,6 +8,7 @@ header:
 ---
 
 ## Working Papers
+*Note: Manuscripts for the following works are available upon request.*
 - Understanding Demand Structure in the Two-Sided Markets: A Network-Based Rev- enue Analysis Approach.
     - *with* Yi Zhao, Ying Zhao
     - **Job Market Paper**
